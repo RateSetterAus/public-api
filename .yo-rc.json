@@ -1,0 +1,10 @@
+{
+  "generator-openapi-repo": {
+    "importExistingSpec": false,
+    "name": "public-api",
+    "repo": "RateSetterAus/public-api",
+    "splitSpec": true,
+    "samples": true,
+    "installSwaggerUI": true
+  }
+}
