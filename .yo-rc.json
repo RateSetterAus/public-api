@@ -3,7 +3,7 @@
     "importExistingSpec": false,
     "name": "public-api",
     "repo": "RateSetterAus/public-api",
-    "splitSpec": true,
+    "splitSpec": false,
     "samples": true,
     "installSwaggerUI": true
   }
